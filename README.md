@@ -5,4 +5,5 @@ bfs.py, dfs.py and maze_generator.py all contain an interactive main program, fr
 
 ## Footnote
 a-star.py is not entirely my code, and is sourced and adapted from https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2. All credits go to the respective owners. Comments in a-star.py provide further detail.
+
 maze_generator.py is code from a legacy project of mine, adapted to work with the formatting of this project.
