@@ -1,4 +1,5 @@
-# Maze-Solving-Algorithms
+# maze-solving-algorithms
+
 Continuous Assessment for ECM2423 - Artificial Intelligence and Applications, set by Prof. Ayah Helal (Year 2, Semester 2). Involves the use of several search algorithms for the problem of solving mazes, as well as comparing performance and an independent extra program for generating new mazes.
 
 This work received a final mark of 85/100.
